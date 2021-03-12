@@ -1,4 +1,4 @@
-![Christotecch](/images/logo.png)
+
 # Hi, I’m Christopher Sesugh (@christophersesugh)
 ### I’m interested in front-end web development projects (Reactjs)
 ### I’m currently learning react-native
