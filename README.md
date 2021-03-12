@@ -1,9 +1,25 @@
-- 👋 Hi, I’m @christophersesugh
-- 👀 I’m interested in front-end web development projects (Reactjs)
-- 🌱 I’m currently learning react-native
-- 💞️ I’m looking to collaborate on any kind of react project.
-- 📫 How to reach me; e-mail: christohybrid185@gmail.com. twitter: @christotecch. phone: +234 8142859827
-- www.christo.tech
+![Christotecch](/images/logo.png)
+# Hi, I’m Christopher Sesugh (@christophersesugh)
+### I’m interested in front-end web development projects (Reactjs)
+### I’m currently learning react-native
+### I’m looking to collaborate on any react project.
+# Front-end tech.:
+### HTML
+### CSS
+### JavaScript
+### Reactjs
+### Nextjs
+### Redux
+### Material-UI
+# Back-end tech.:
+### Nodejs
+### MongoDB
+# How to reach me:
+### E-mail: christohybrid185@gmail.com
+### Twitter: [Christotecch](http://twitter.com/christotecch)
+### phone: +234 8142859827
+# [Christo.tech](http://christo.tech)
+# [Blog](https://christotecch.com)
 
 <!---
 christophersesugh/christophersesugh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
