@@ -1,7 +1,6 @@
 
 # Hi, I’m Christopher Sesugh.
 ### I’m a proficient front-end developer.
-### I’m currently learning react-native
 ### I’m looking to collaborate on any web development project.
 ### Front-end tech.:
 ###### HTML, CSS, JavaScript, Reactjs, Nextjs, Redux, Material-UI
