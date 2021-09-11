@@ -1,13 +1,9 @@
 
 # Hi, I’m Christopher Sesugh.
 ### I’m a proficient front-end developer.
-### Front-end tech.:
-###### HTML, CSS, JavaScript, Reactjs, Nextjs, Redux, Material-UI
-### Back-end tech.:
-###### Nodejs,Expressjs, MongoDB
 ### How to reach me:
 ###### E-mail: christohybrid185@gmail.com
-###### Twitter: [Christotecch](http://twitter.com/christotecch)
+###### Twitter: [Christopher Sesugh](http://twitter.com/chrisesugh)
 ###### phone: +234 8142859827
 ###### [Christo.tech](http://christo.tech)
 ###### [Blog](https://christotecch.com)
