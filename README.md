@@ -5,7 +5,7 @@
 ###### E-mail: christohybrid185@gmail.com
 ###### Twitter: [Christopher Sesugh](http://twitter.com/chrisesugh)
 ###### phone: +234 8142859827
-###### [Christo.tech](http://christo.tech)
+###### [Christo.netlify.app](http://christo.netlify.app)
 ###### [Blog](https://christotecch.com)
 
 <!---
