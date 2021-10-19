@@ -1,6 +1,6 @@
 
 # Hi, I’m Christopher Sesugh.
-### I’m a proficient front-end developer.
+### I’m a front-end developer.
 ### How to reach me:
 ###### E-mail: christohybrid185@gmail.com
 ###### Twitter: [Christopher Sesugh](http://twitter.com/chrisesugh)
