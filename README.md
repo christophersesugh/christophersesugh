@@ -1,7 +1,6 @@
 
 # Hi, I’m Christopher Sesugh.
-### I’m a front-end developer.
-### How to reach me:
+### Proficient front-end developer.
 ###### E-mail: christohybrid185@gmail.com
 ###### phone: +234 8142859827
 ###### [Christo.netlify.app](http://christo.netlify.app)
