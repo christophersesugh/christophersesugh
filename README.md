@@ -1,9 +1,9 @@
 
-# Hi, I’m Christopher Sesugh.
-### Proficient front-end developer.
+# Hi, I’m Christopher A. Sesugh.
+### FrontEnd Engineer (JavaScript | Reactjs | Nodejs).
 ###### E-mail: christohybrid185@gmail.com
 ###### phone: +234 8142859827
-###### [Christo.netlify.app](http://christo.netlify.app)
+###### [Christophersesugh.com](http://christophersesugh.com)
 
 <!---
 christophersesugh/christophersesugh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
