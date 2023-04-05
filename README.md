@@ -1,8 +1,8 @@
 ## Hi, I’m Christopher A. Sesugh.
-### Software Engineer.
-###### E-mail: christohybrid185@gmail.com
-###### phone: +234 8142859827
-###### [Christophersesugh.com](http://christophersesugh.com)
+### Fullstack Software Engineer.
+###### christohybrid185@gmail.com
+###### +234 8142859827
+###### [christophersesugh.com](http://www.christophersesugh.com)
 
 <!---
 christophersesugh/christophersesugh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
