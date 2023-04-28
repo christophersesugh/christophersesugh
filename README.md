@@ -1,4 +1,4 @@
-[![Christopher A. Sesugh](https://res.cloudinary.com/christo/image/upload/v1682695835/Black_Blue_Geometric_Tips_Business_Facebook_Cover_1_gjmhfw.png)Learn more about me.](https://www.christophersesugh.com/about)
+[![Christopher A. Sesugh](https://res.cloudinary.com/christo/image/upload/v1682697484/christohybrid185_gmail.com_jqwkam.png)Learn more about me.](https://www.christophersesugh.com/about)
 
 <!---
 christophersesugh/christophersesugh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
