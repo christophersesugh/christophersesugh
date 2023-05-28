@@ -4,7 +4,7 @@
 <!-- Top langs -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christophersesugh&layout=donut)](https://github.com/christophersesugh/github-readme-stats)
 <!-- wakatime -->
-[![Christopher's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=christophersesugh)](https://github.com/christophersesugh/github-readme-stats)
+[![Christopher's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=christophersesugh&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
