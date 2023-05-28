@@ -3,6 +3,8 @@
 |:--|:--:|--:|
 
 [![wakatime](https://wakatime.com/badge/github/christophersesugh/christophersesugh.svg)](https://wakatime.com/badge/github/christophersesugh/christophersesugh)
+
+[![wakatime](https://wakatime.com/badge/user/9e3c8467-413a-496d-a9ec-b602e2e8bd36/project/96b3d939-b2ab-4c60-ae55-77b6126c6478.svg)](https://wakatime.com/badge/user/9e3c8467-413a-496d-a9ec-b602e2e8bd36/project/96b3d939-b2ab-4c60-ae55-77b6126c6478)
 <!---
 christophersesugh/christophersesugh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
