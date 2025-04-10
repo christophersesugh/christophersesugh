@@ -128,9 +128,6 @@
   <a href="https://www.buymeacoffee.com/christophersesugh">
     <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
   </a>
-  <a href="https://www.patreon.com/christophersesugh">
-    <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" />
-  </a>
 </p>
 
 <!-- Activity Graph with improved theme -->
