@@ -99,9 +99,9 @@
 <h3 align="center">📝 Latest Blog Posts</h3>
 <div align="center">
   <!-- Replace these with actual blog post links -->
-  <a href="https://codingsimba.com/articles/post1"><b>Building Responsive UIs with Tailwind CSS</b></a><br/>
-  <a href="https://codingsimba.com/articles/post2"><b>State Management in React: A Comprehensive Guide</b></a><br/>
-  <a href="https://codingsimba.com/articles/post3"><b>Getting Started with TypeScript in 2023</b></a><br/>
+  <a href="https://codingsimba.com/articles/post1"><b>What is tutorial hell, and how to avoid it</b></a><br/>
+  <a href="https://codingsimba.com/articles/post2"><b>Why I wrote the MDX editor sanity plugin</b></a><br/>
+  <a href="https://codingsimba.com/articles/post3"><b>About the React useToc hook</b></a><br/>
 </div>
 
 <!-- Social Badges with more platforms -->
