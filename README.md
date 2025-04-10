@@ -78,8 +78,9 @@
 <h3 align="center">🌱 Currently Learning</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white" />
 </p>
+
 
 <!-- Featured Projects Section -->
 <h3 align="center">🚀 Featured Projects</h3>
@@ -96,7 +97,7 @@
 </div>
 
 <!-- Latest Blog Posts Section -->
-<h3 align="center">📝 Latest Blog Posts</h3>
+<h3 align="center">📝 Featured Blog Posts</h3>
 <div align="center">
   <!-- Replace these with actual blog post links -->
   <a href="https://codingsimba.com/articles/post1"><b>What is tutorial hell, and how to avoid it</b></a><br/>
