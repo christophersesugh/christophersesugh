@@ -88,6 +88,9 @@
   <a href="https://github.com/casbytes/daemon">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=casbytes&repo=daemon&theme=radical&hide_border=true" />
   </a>
+  <a href="https://github.com/casbytes/test-runner">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=casbytes&repo=test-runner&theme=radical&hide_border=true" />
+  </a>
   <a href="https://github.com/christophersesugh/use-toc">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=christophersesugh&repo=use-toc&theme=radical&hide_border=true" />
   </a>
@@ -110,14 +113,11 @@
   <a href="https://twitter.com/codingsimba_">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://linkedin.com/in/christopher-sesugh-265332176/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:christohybrid185@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://medium.com/@christophersesugh">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
 </p>
 
