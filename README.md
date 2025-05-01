@@ -85,8 +85,8 @@
 <!-- Featured Projects Section -->
 <h3 align="center">🚀 Featured Projects</h3>
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; margin: 16px 0;">
-  <a href="https://github.com/christophersesugh/sanity-plugin-mdx-editor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=christophersesugh&repo=sanity-plugin-mdx-editor&theme=radical&hide_border=true" />
+  <a href="https://github.com/casbytes/daemon">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=casbytes&repo=daemon&theme=radical&hide_border=true" />
   </a>
   <a href="https://github.com/christophersesugh/use-toc">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=christophersesugh&repo=use-toc&theme=radical&hide_border=true" />
@@ -101,7 +101,6 @@
 <div align="center">
   <!-- Replace these with actual blog post links -->
   <a href="https://codingsimba.com/articles/post1"><b>What is tutorial hell, and how to avoid it</b></a><br/>
-  <a href="https://codingsimba.com/articles/post2"><b>Why I wrote the MDX editor sanity plugin</b></a><br/>
   <a href="https://codingsimba.com/articles/post3"><b>About the React useToc hook</b></a><br/>
 </div>
 
