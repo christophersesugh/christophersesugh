@@ -39,7 +39,6 @@
     <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
     <img src="https://img.shields.io/badge/React_router-000000?style=for-the-badge&logo=react-router&logoColor=white" />
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
     <img src="https://img.shields.io/badge/Framer_Motion-000000?style=for-the-badge&logo=framer&logoColor=white" />
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -94,8 +93,8 @@
   <a href="https://github.com/casbytes/test-runner">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=casbytes&repo=test-runner&theme=radical&hide_border=true" />
   </a>
-  <a href="https://github.com/christophersesugh/use-toc">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=christophersesugh&repo=use-toc&theme=radical&hide_border=true" />
+  <a href="https://github.com/christophersesugh/use-markdown-toc">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=christophersesugh&repo=use-markdown-toc&theme=radical&hide_border=true" />
   </a>
 </div>
 
@@ -104,7 +103,7 @@
 <div align="center">
   <!-- Replace these with actual blog post links -->
   <a href="https://codingsimba.com/articles/post1"><b>What is tutorial hell, and how to avoid it</b></a><br/>
-  <a href="https://codingsimba.com/articles/post3"><b>About the React useToc hook</b></a><br/>
+  <a href="https://codingsimba.com/articles/post3"><b>About the React useMarkdownToc hook</b></a><br/>
 </div>
 
 <!-- Social Badges with more platforms -->
