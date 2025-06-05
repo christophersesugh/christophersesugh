@@ -84,6 +84,9 @@
 <!-- Featured Projects Section -->
 <h3 align="center">🚀 Featured Projects</h3>
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; margin: 16px 0;">
+   <a href="https://github.com/christophersesugh/use-page-view">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=christophersesugh&repo=use-page-view&theme=radical&hide_border=true" />
+  </a>
   <a href="https://github.com/christophersesugh/codingsimba">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=christophersesugh&repo=codingsimba&theme=radical&hide_border=true" />
   </a>
@@ -92,9 +95,6 @@
   </a>
   <a href="https://github.com/casbytes/test-runner">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=casbytes&repo=test-runner&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/christophersesugh/use-markdown-toc">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=christophersesugh&repo=use-markdown-toc&theme=radical&hide_border=true" />
   </a>
 </div>
 
