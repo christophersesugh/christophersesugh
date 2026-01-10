@@ -28,7 +28,7 @@ I'm the Founder & CTO of [tekbreed.com](https://tekbreed.com), where I lead the 
 - 🚀 Founder & CTO at [tekbreed.com](https://tekbreed.com)
 - 👨‍🏫 Tutor at [tekbreed.com](https://tekbreed.com) - Mentoring the next generation of developers
 - 🔭 Building innovative tech solutions and leading engineering teams
-- 🌱 Currently learning **Rust** and **WebAssembly**
+- 🌱 Currently exploring **Rust**, **WebAssembly**, and **Lean**
 - 📝 Technical writer at [tekbreed.com](https://tekbreed.com)
 - 💬 Ask me about React, TypeScript, Node.js, and web development
 - 📫 Reach me at: christohybrid185@gmail.com
@@ -40,7 +40,7 @@ I'm the Founder & CTO of [tekbreed.com](https://tekbreed.com), where I lead the 
 ### Frontend Development
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-000000?style=flat-square&logo=react-router&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -62,6 +62,7 @@ I'm the Founder & CTO of [tekbreed.com](https://tekbreed.com), where I lead the 
 ### Currently Exploring
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white)
+![Lean](https://img.shields.io/badge/Lean-3B82F6?style=flat-square&logo=lean&logoColor=white)
 
 ---
 
