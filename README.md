@@ -29,7 +29,7 @@ I’m a passionate full-stack developer and educator focused on building scalabl
 <!-- 👨‍🏫 Tutor at [tekbreed.com](https://tekbreed.com) - Mentoring the next generation of developers -->
 - 🔭 Building innovative tech solutions and leading engineering teams
 - 🌱 Currently exploring **Rust**, **WebAssembly**, and **Lean**<!-- 📝 Technical writer at [tekbreed.com](https://tekbreed.com) -->
-- 💬 Ask me about React, TypeScript, Node.js, Rust, and web development
+- 💬 Ask me about React, TypeScript, Node.js, Rust, Lean, and web development
 - 📫 Reach me at: christohybrid185@gmail.com
 
 ---
