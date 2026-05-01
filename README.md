@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Christopher%20S.%20Aondona&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=white" width="100%" />
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Christopher%20S.%20Aondona&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=white" width="100%" /> -->
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Technical+Writer+%26+Educator;Building+Solutions+That+Matter" alt="Typing animation" />
@@ -23,15 +23,14 @@
 
 ## 👨‍💻 About Me
 
-I'm the co-founder & CTO of [tekbreed.com](https://tekbreed.com), where I lead the technical vision and development of innovative solutions. As a passionate full-stack developer and educator, I specialize in building scalable applications, teaching aspiring developers, contributing to open-source projects, and empowering the tech community through technical writing and educational content.
+I’m a passionate full-stack developer and educator focused on building scalable applications, teaching aspiring developers, contributing to open-source projects, and creating technical content that empowers the developer community.
 
-- 🚀 Co-Founder & CTO at [tekbreed.com](https://tekbreed.com)
-- 👨‍🏫 Tutor at [tekbreed.com](https://tekbreed.com) - Mentoring the next generation of developers
+<!-- 🚀 Co-Founder & CTO at [tekbreed.com](https://tekbreed.com) -->
+<!-- 👨‍🏫 Tutor at [tekbreed.com](https://tekbreed.com) - Mentoring the next generation of developers -->
 - 🔭 Building innovative tech solutions and leading engineering teams
-- 🌱 Currently exploring **Rust**, **WebAssembly**, and **Lean**
-- 📝 Technical writer at [tekbreed.com](https://tekbreed.com)
+- 🌱 Currently exploring **Rust**, **WebAssembly**, and **Lean**<!-- 📝 Technical writer at [tekbreed.com](https://tekbreed.com) -->
 - 💬 Ask me about React, TypeScript, Node.js, Rust, and web development
-- 📫 Reach me at: christopher@tekbreed.com
+- 📫 Reach me at: christohybrid185@gmail.com
 
 ---
 
