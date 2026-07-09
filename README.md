@@ -11,7 +11,9 @@
   </a>
 </p>
 
-**Founder & CTO @ [MemoFS](https://docs.memofs.dev)** — building scalable systems, teaching developers, shipping open source.
+## Founder & CTO @ [MemoFS](https://docs.memofs.dev)
+
+Building scalable systems, teaching developers, shipping open source.
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
