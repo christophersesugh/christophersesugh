@@ -10,11 +10,11 @@
 
 ## Articles
 
-- ### [Blog Post Title](./posts/blog-post-title.md)
+- ### [When Your Agent's Memory Lies](https://memofs.dev/articles/when-your-agents-memory-lies)
 
-- ### [Another Blog Post](./posts/another-blog-post.md)
+- ### [How MemoFS Retrieves Without a Database](https://memofs.dev/articles/how-memofs-retrieves-without-a-database)
 
-- ### [Another Technical Post](./posts/another-technical-post.md)
+- ### [Your Agent's Scratchpad Is Not Memory: Session-Outcome-Gated Memory in MemoFS](https://memofs.dev/articles/your-agents-scratchpad-is-not-memory)
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" width="100%" />
