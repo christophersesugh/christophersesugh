@@ -43,11 +43,22 @@ I'm a software engineer based in Kaduna, Nigeria. I build open-source developer 
 
 ## ✍️ Writing
 
+### MemoFS Articles
+*Agent memory, retrieval and correctness.*
+
 - [When Your Agent's Memory Lies](https://memofs.dev/articles/when-your-agents-memory-lies)
 - [How MemoFS Retrieves Without a Database](https://memofs.dev/articles/how-memofs-retrieves-without-a-database)
 - [Your Agent's Scratchpad Is Not Memory: Session-Outcome-Gated Memory in MemoFS](https://memofs.dev/articles/your-agents-scratchpad-is-not-memory)
 
-More at [memofs.dev/articles](https://memofs.dev/articles).
+→ [All articles](https://memofs.dev/articles)
+
+### Engram Insights
+*Notes on software, systems, learning, and making difficult things understandable.*
+
+- [A process is a program with a pulse](https://engram.memofs.dev/insights/a-process-is-a-program-with-a-pulse): Systems
+- [Recognition is not retrieval](https://engram.memofs.dev/insights/recognition-is-not-retrieval): Mindware
+
+→ [All insights](https://engram.memofs.dev/insights)
 
 ## 🤝 Connect
 
