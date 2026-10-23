@@ -1,6 +1,6 @@
 # Christopher S. Aondona
 
-**Founder & CTO of [MemoFS](https://memofs.dev)** · Building **0xBUFF** — developer tools and a teaching platform for engineers who want to understand the machine.
+**Founder & CTO of [MemoFS](https://memofs.dev)** · Building **[0xBUFF](https://github.com/0xbuffdev)** — developer tools and a teaching platform for engineers who want to understand the machine.
 
 [Website](https://memofs.dev) · [GitHub](https://github.com/christophersesugh) · [X](https://x.com/sezugh) · [LinkedIn](https://www.linkedin.com/in/christopher-sesugh-265332176)
 
