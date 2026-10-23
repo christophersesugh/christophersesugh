@@ -15,7 +15,7 @@ I take **3–5 engineers at a time**.
 ## What I'm building
 
 - **[MemoFS](https://memofs.dev)** — an open-source, file-first memory runtime for AI agents. Memory lives as Markdown and JSONL in your project, so it is versioned, portable, and reviewable in a git diff.
-- **0xNAND** — a teaching platform for software engineering from first principles. In development, starting with Software Engineering Foundations.
+- **[Engram](https://engram.memofs.dev)** — a teaching platform for software engineering from first principles. In development, starting with Software Engineering Foundations.
 - **[lab](https://github.com/christophersesugh/lab)** — a free, build-first curriculum for Foundations, Systems, AI/ML, and Security, with book maps, labs, projects, and 1:1 mentorship.
 - **[BuildTrace](https://github.com/0xbuffdev/buildtrace)** — a Linux-first Cargo build capability recorder. Pre-alpha, written in Rust.
 
