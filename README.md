@@ -1,6 +1,6 @@
 # Christopher S. Aondona
 
-Software engineer in Kaduna, Nigeria. I build **0xBUFF** — developer tools and a teaching platform for engineers who want to understand the machine.
+**Founder & CTO of [MemoFS](https://memofs.dev)** · Building **0xBUFF** — developer tools and a teaching platform for engineers who want to understand the machine.
 
 [Website](https://memofs.dev) · [GitHub](https://github.com/christophersesugh) · [X](https://x.com/sezugh) · [LinkedIn](https://www.linkedin.com/in/christopher-sesugh-265332176)
 
@@ -17,7 +17,7 @@ I take **3–5 engineers at a time**.
 - **[MemoFS](https://memofs.dev)** — an open-source, file-first memory runtime for AI agents. Memory lives as Markdown and JSONL in your project, so it is versioned, portable, and reviewable in a git diff.
 - **0xNAND** — a teaching platform for software engineering from first principles. In development, starting with Software Engineering Foundations.
 - **[lab](https://github.com/christophersesugh/lab)** — a free, build-first curriculum for Foundations, Systems, AI/ML, and Security, with book maps, labs, projects, and 1:1 mentorship.
-- **[BuildTrace](https://github.com/christophersesugh/buildtrace)** — a Linux-first Cargo build capability recorder. Pre-alpha, written in Rust.
+- **[BuildTrace](https://github.com/0xbuffdev/buildtrace)** — a Linux-first Cargo build capability recorder. Pre-alpha, written in Rust.
 
 ## Writing
 
