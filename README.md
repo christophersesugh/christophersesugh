@@ -1,23 +1,25 @@
 # Christopher S. Aondona
 
-**Founder & CTO of [MemoFS](https://memofs.dev)** · Building **[0xBUFF](https://github.com/0xbuffdev)** — developer tools and a teaching platform for engineers who want to understand the machine.
+**Founder & CTO of [0xBUFF](https://github.com/0xbuffdev)** · Developer tools and engineering education for people who want to understand how computers work.
 
 [Website](https://memofs.dev) · [GitHub](https://github.com/christophersesugh) · [X](https://x.com/sezugh) · [LinkedIn](https://www.linkedin.com/in/christopher-sesugh-265332176)
 
 ## Mentorship
 
-The curriculum is free. Mentorship is the human layer: a realistic plan from your current level, code and design review on your own work, and help with the parts where tutorials stop.
+The curriculum is free. Mentorship adds individualized guidance: a learning plan tailored to your current level, code and design reviews of your own work, and help working through the concepts and problems that tutorials leave unresolved.
 
-I take **3–5 engineers at a time**.
+I mentor **3–5 engineers at a time** to keep the guidance focused and the feedback substantive.
 
-**[Read the details and apply →](https://github.com/christophersesugh/lab/blob/main/MENTORSHIP.md)**
+**[Apply for a free 15-minute fit call →](https://github.com/christophersesugh/lab/blob/main/MENTORSHIP.md)**
 
 ## What I'm building
 
-- **[MemoFS](https://memofs.dev)** — an open-source, file-first memory runtime for AI agents. Memory lives as Markdown and JSONL in your project, so it is versioned, portable, and reviewable in a git diff.
-- **[Engram](https://engram.memofs.dev)** — a teaching platform for software engineering from first principles. In development, starting with Software Engineering Foundations.
-- **[lab](https://github.com/christophersesugh/lab)** — a free, build-first curriculum for Foundations, Systems, AI/ML, and Security, with book maps, labs, projects, and 1:1 mentorship.
-- **[BuildTrace](https://github.com/0xbuffdev/buildtrace)** — a Linux-first Cargo build capability recorder. Pre-alpha, written in Rust.
+Everything below is a **0xBUFF** project.
+
+- **[MemoFS](https://memofs.dev)** — An open-source, file-first memory runtime for AI agents. It stores memory as Markdown and JSONL in your project, making it version-controlled, portable, and reviewable through Git diffs.
+- **0xNAND** — A teaching platform for learning software engineering from first principles. In development, beginning with Software Engineering Foundations.
+- **[lab](https://github.com/christophersesugh/lab)** — A free, build-first software engineering curriculum covering Foundations, Systems, AI/ML, and Security, with book guides, hands-on labs, projects, and one-to-one mentorship.
+- **[BuildTrace](https://github.com/0xbuffdev/buildtrace)** — A Linux-first tool written in Rust that records capabilities exercised during Cargo builds. Currently pre-alpha.
 
 ## Writing
 
@@ -27,6 +29,6 @@ I take **3–5 engineers at a time**.
 
 → [All articles](https://memofs.dev/articles)
 
-## Elsewhere
+---
 
-[memofs.dev](https://memofs.dev) · [X @sezugh](https://x.com/sezugh) · [LinkedIn](https://www.linkedin.com/in/christopher-sesugh-265332176)
+Founder & CTO of **0xBUFF**. MemoFS, 0xNAND, lab, and BuildTrace are 0xBUFF projects.
