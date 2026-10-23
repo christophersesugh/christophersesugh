@@ -14,8 +14,6 @@ I mentor **3–5 engineers at a time** to keep the guidance focused and the feed
 
 ## What I'm building
 
-Everything below is a **0xBUFF** project.
-
 - **[MemoFS](https://memofs.dev)** — An open-source, file-first memory runtime for AI agents. It stores memory as Markdown and JSONL in your project, making it version-controlled, portable, and reviewable through Git diffs.
 - **0xNAND** — A teaching platform for learning software engineering from first principles. In development, beginning with Software Engineering Foundations.
 - **[lab](https://github.com/christophersesugh/lab)** — A free, build-first software engineering curriculum covering Foundations, Systems, AI/ML, and Security, with book guides, hands-on labs, projects, and one-to-one mentorship.
