@@ -10,7 +10,7 @@ The curriculum is free. Mentorship is the human layer: a realistic plan from you
 
 I take **3–5 engineers at a time**.
 
-**[Apply for a free 15-minute fit call →](https://github.com/christophersesugh/lab/blob/main/MENTORSHIP.md)**
+**[Read the details and apply →](https://github.com/christophersesugh/lab/blob/main/MENTORSHIP.md)**
 
 ## What I'm building
 
