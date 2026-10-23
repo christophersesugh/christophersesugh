@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header" width="100%" />
 </div>
 
@@ -66,4 +66,5 @@ I'm a software engineer based in Kaduna, Nigeria. I build open-source developer 
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" width="100%" />
-</div>
+</div> -->
+[memofs.dev](https://memofs.dev)
